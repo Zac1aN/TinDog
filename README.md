@@ -12,3 +12,4 @@ The main framework use in building the TinDog are Bootstrap and some of it's com
 
 # Link of the Website
 
+https://zac1an.github.io/TinDog/
