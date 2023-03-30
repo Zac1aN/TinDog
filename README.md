@@ -4,7 +4,7 @@ A tinder-like website made exclusively for dogs.
 
 # About the Website
 
-A single page website which provides particulars of the application to the end user like the dess\cription of the website, from where we can download the application and a section that displays the feedback from the clients and different plans and subscriptions.
+A single page website which provides particulars of the application to the end user, like the description of the website, from where we can download the application and a section that displays the feedback from the clients as well various plans and subscriptions.
 
 # Technologies Used
 
