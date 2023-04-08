@@ -8,7 +8,7 @@ A single page website which provides particulars of the application to the end u
 
 # Technologies Used
 
-The main framework use in building the TinDog are Bootstrap and some of it's components like Carousel, Card, Buttons, Container, Navbar etc. It also used HTML5, CSS5, Google Fonts and Font Awesome.
+The main frameworks used in building the TinDog website are Bootstrap and some of it's components like Carousel, Card, Buttons, Container, Navbar etc. I also used HTML5, CSS5, Google Fonts and Font Awesome.
 
 # Link of the Website
 
